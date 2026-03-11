@@ -1,0 +1,64 @@
+name: Add a resource
+description: Suggest a new resource to add to the list
+title: "Add: "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      placeholder: e.g. EU AI Act Compliance Checker by XYZ
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      description: Which section of the README does this belong in?
+      options:
+        - Official EU Sources
+        - Compliance Tools & Platforms
+        - Open-Source Projects
+        - Legal Analysis & Guides
+        - Standards & Frameworks
+        - Templates & Checklists
+        - Training & Certifications
+        - News & Newsletters
+        - Community & Events
+        - AI Governance & Ethics Tools
+        - Regulatory Sandboxes
+        - Related EU Regulations
+        - Consultancies & Service Providers
+        - New section (explain below)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: One-sentence description
+      description: What is this resource and why is it useful? Keep it under 100 characters, factual, no marketing language.
+      placeholder: e.g. Interactive tool for determining whether an AI system falls under EU AI Act obligations.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: The link is publicly accessible and working
+          required: true
+        - label: This resource is not already listed in the README
+          required: true
+        - label: This resource is directly relevant to EU AI Act compliance or understanding
+          required: true
