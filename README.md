@@ -4,11 +4,11 @@
 
 EU regulation governing the development and deployment of artificial intelligence systems, establishing a risk-based compliance framework with obligations phasing in through 2027.
 
-| Deadline | Obligation |
-|---|---|
-| February 2025 | Prohibited AI practices + AI literacy (Article 4) |
-| August 2025 | GPAI (General-Purpose AI) obligations |
-| **August 2026** | **High-risk AI system rules** ← most organizations are preparing for this |
+Key compliance deadlines:
+
+- **February 2025** — Prohibited practices + AI literacy (Article 4)
+- **August 2025** — GPAI (General-Purpose AI) obligations
+- **August 2026** — High-risk AI system rules (most organizations are preparing for this)
 
 > **Want to contribute?** Open a pull request — see `CONTRIBUTING.md` for guidelines. PRs are reviewed within 48 hours.
 
