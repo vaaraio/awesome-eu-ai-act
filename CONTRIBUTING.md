@@ -1,6 +1,6 @@
 # Contributing to Awesome EU AI Act
 
-Thank you for helping make this the best EU AI Act resource list on the internet. All contributions are reviewed by [Carlos Hernández](https://github.com/carloshvp) within 48 hours.
+Thank you for helping make this the best EU AI Act resource list on the internet. All contributions are reviewed by [Carlos Hernandez](https://github.com/carloshvp) within 48 hours.
 
 ## How to add a resource
 

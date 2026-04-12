@@ -1,6 +1,6 @@
 # Awesome EU AI Act [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Last Commit](https://img.shields.io/github/last-commit/GenAI-Gurus/awesome-eu-ai-act)](https://github.com/GenAI-Gurus/awesome-eu-ai-act) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](LICENSE)
 
-> Maintained by **[Carlos Hernández](https://www.linkedin.com/in/carloshvp)** · [GitHub @carloshvp](https://github.com/carloshvp) · Founder of [GenAI Gurus](https://genai-gurus.com) — Europe's GenAI community (2,000+ members).
+> Maintained by **[Carlos Hernandez](https://www.linkedin.com/in/carloshvp)** · [GitHub @carloshvp](https://github.com/carloshvp) · Founder of [GenAI Gurus](https://genai-gurus.com) — Europe's GenAI community (2,000+ members).
 
 EU regulation governing the development and deployment of artificial intelligence systems, establishing a risk-based compliance framework with obligations phasing in through 2027.
 
@@ -415,4 +415,4 @@ Please [open an issue](https://github.com/GenAI-Gurus/awesome-eu-ai-act/issues) 
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, Carlos Hernández has waived all copyright and related rights to this work.
+To the extent possible under law, Carlos Hernandez has waived all copyright and related rights to this work.
