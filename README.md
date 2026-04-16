@@ -19,6 +19,7 @@ Key compliance deadlines:
 - [Official EU Sources](#official-eu-sources)
 - [Compliance Tools & Platforms](#compliance-tools--platforms)
 - [Open-Source Projects](#open-source-projects)
+  - [AI Agent Governance](#ai-agent-governance)
 - [Legal Analysis & Guides](#legal-analysis--guides)
 - [Standards & Frameworks](#standards--frameworks)
 - [Templates & Checklists](#templates--checklists)
@@ -122,6 +123,10 @@ Key compliance deadlines:
 
 - [EU AI Act Interactive Guide](https://github.com/niranjanxprt/eu-ai-act) - Comprehensive interactive guide for startups and SMEs with compliance checker and risk assessment.
 - [Hugging Face EU AI Act Guide for OSS Developers](https://github.com/huggingface/blog/blob/main/eu-ai-act-for-oss-developers.md) - Official guide covering obligations for GPAI models, copyright compliance, and documentation requirements.
+
+### AI Agent Governance
+
+- [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (~900+ stars).
 
 ### Curated Lists
 
